@@ -54,13 +54,13 @@ python3 generate.py --load_path /path/to/pth/checkpoint --num_output n
 ```
 **Generated Images**
 <p align="center">
-  <i>Using final trained model:</i> <img src="images/generated_img.png" title="Generated Images from final trained model" alt="Generated Images from final trained model">
+  <img src="images/generated_img.png" title="Generated Images from final trained model" alt="Generated Images from final trained model">
 </p>
 
 ## References
 1. **Alec Radford, Luke Metz, Soumith Chintala.** *Unsupervised representation learning with deep convolutional 
 generative adversarial networks.*[[arxiv](https://arxiv.org/abs/1511.06434)]
-2. DCGAN Implementation from scratch. ['https://www.youtube.com/watch?v=IZtv9s_Wx9I']
+2. DCGAN Implementation from scratch. [[youtube](https://www.youtube.com/watch?v=IZtv9s_Wx9I)]
 3. **Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, 
 Sherjil Ozair, Aaron Courville, Yoshua Bengio.** *Generative adversarial nets.* NIPS 2014 [[arxiv](https://arxiv.org/abs/1406.2661)]
 4. **Ian Goodfellow.** *Tutorial: Generative Adversarial Networks.* NIPS 2016 [[arxiv](https://arxiv.org/abs/1701.00160)]
